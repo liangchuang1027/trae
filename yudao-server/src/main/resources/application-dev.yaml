@@ -220,6 +220,6 @@ iot:
     clearSession: true
 
 
-# 插件配置
+# 插件配置1111
 pf4j:
   pluginsDir: ${user.home}/plugins # 插件目录

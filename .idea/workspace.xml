@@ -4,22 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9143b887-7b20-4c9a-9a76-9443d25e60e3" name="更改" comment="11">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="a97fad60-3580-4572-8c02-d8f788cf61af" name="更改" comment="11">
+      <change afterPath="$PROJECT_DIR$/.idea/.cache/.Apifox_Helper/.toolWindow.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/.cache/.Apifox_Helper/.toolWindow.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/controller/admin/finance/LaShiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/controller/admin/finance/LaShiController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Downloads/lc/qiyee/tools/repro/org/springframework/boot/spring-boot-autoconfigure/3.4.5/spring-boot-autoconfigure-3.4.5-sources.jar!/org/springframework/boot/autoconfigure/AutoConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.7/Contents/Home/lib/src.zip!/java.base/apple/security/AppleProvider.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,47 +53,90 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="3BYKRnxDp7ZV2JhtNFcF0SB46tl" />
+  <component name="ProjectId" id="2yt8q2D4ljLYBC6Lw3pOqWKKMSe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.yudao [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.yudao [install].executor&quot;: &quot;Run&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;数据库检测器&quot;,
-    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.YudaoServerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lc/Desktop/trae/pom.xml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.yudao [clean].executor": "Run",
+    "Maven.yudao [package].executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Database detector": "数据库检测器",
+    "Notification.DoNotAsk-Database detector": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.YudaoServerApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lc/Desktop/trae/.idea",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.iocoder.yudao.module.erp.service.guest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yudao-module-erp/src/main/java" />
+      <recent name="$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp" />
+      <recent name="$PROJECT_DIR$/yudao-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/yudao-module-erp/src" />
+      <recent name="$PROJECT_DIR$/yudao-module-erp/src/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp" />
+      <recent name="$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/controller/admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.iocoder.yudao.module.erp.controller.admin.order.vo" />
+      <recent name="cn.iocoder.yudao.module.erp.controller.admin.hzRawConsume.vo" />
+      <recent name="cn.iocoder.yudao.module.erp.controller.admin.finance.vo.account" />
+      <recent name="cn.iocoder.yudao.module.erp.controller.admin.finance" />
+      <recent name="cn.iocoder.yudao.module.erp.dal.mysql.guest" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ruoyi-vue-pro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ruoyi-vue-pro" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration name="YudaoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="yudao-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.iocoder.yudao.server.YudaoServerApplication" />
@@ -90,60 +159,576 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="9143b887-7b20-4c9a-9a76-9443d25e60e3" name="更改" comment="" />
-      <created>1774660559917</created>
+      <changelist id="a97fad60-3580-4572-8c02-d8f788cf61af" name="更改" comment="" />
+      <created>1750642695525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1774660559917</updated>
-      <workItem from="1774660562665" duration="480000" />
-      <workItem from="1774661051141" duration="1538000" />
-      <workItem from="1774662647896" duration="722000" />
-      <workItem from="1774663393295" duration="497000" />
-      <workItem from="1774664265812" duration="27000" />
-      <workItem from="1774665292469" duration="419000" />
-      <workItem from="1774665769766" duration="868000" />
-      <workItem from="1774666950677" duration="175000" />
+      <updated>1750642695525</updated>
+      <workItem from="1750642697100" duration="1275000" />
+      <workItem from="1750644967835" duration="523000" />
+      <workItem from="1750645723848" duration="9890000" />
+      <workItem from="1751621253491" duration="851000" />
+      <workItem from="1754357629255" duration="83000" />
+      <workItem from="1754357946331" duration="20000" />
+      <workItem from="1754880662961" duration="537000" />
+      <workItem from="1754903775147" duration="508000" />
+      <workItem from="1754989982847" duration="550000" />
+      <workItem from="1758073338483" duration="12835000" />
+      <workItem from="1759110597180" duration="647000" />
+      <workItem from="1759127304017" duration="262000" />
+      <workItem from="1759138796211" duration="1000" />
+      <workItem from="1761122440822" duration="2610000" />
+      <workItem from="1761641074958" duration="466000" />
+      <workItem from="1761642708674" duration="2767000" />
+      <workItem from="1761894682146" duration="6760000" />
+      <workItem from="1762132607093" duration="7000" />
+      <workItem from="1762133511545" duration="7928000" />
+      <workItem from="1762152016613" duration="929000" />
+      <workItem from="1762224250515" duration="14000" />
+      <workItem from="1762224478398" duration="6014000" />
+      <workItem from="1762238577912" duration="34624000" />
+      <workItem from="1762593408439" duration="1000" />
+      <workItem from="1762593419397" duration="18025000" />
+      <workItem from="1762844218982" duration="4896000" />
+      <workItem from="1762929254596" duration="25435000" />
+      <workItem from="1763443944326" duration="5635000" />
+      <workItem from="1763456532161" duration="7236000" />
+      <workItem from="1763520786564" duration="1387000" />
+      <workItem from="1763522658821" duration="2001000" />
+      <workItem from="1763524816793" duration="8776000" />
+      <workItem from="1763600938296" duration="17411000" />
+      <workItem from="1763626600041" duration="491000" />
+      <workItem from="1763627096808" duration="964000" />
+      <workItem from="1763628314594" duration="24851000" />
+      <workItem from="1763968735106" duration="414000" />
+      <workItem from="1764061960415" duration="3763000" />
+      <workItem from="1764122902289" duration="29015000" />
+      <workItem from="1764230838266" duration="5656000" />
+      <workItem from="1764298279741" duration="2643000" />
+      <workItem from="1764637980243" duration="12000" />
+      <workItem from="1764638078570" duration="2159000" />
+      <workItem from="1764641331553" duration="24770000" />
+      <workItem from="1764819452597" duration="15157000" />
+      <workItem from="1764896631262" duration="78000" />
+      <workItem from="1764896853663" duration="24211000" />
+      <workItem from="1765161323972" duration="75973000" />
+      <workItem from="1765760938296" duration="1000" />
+      <workItem from="1765761249381" duration="29572000" />
+      <workItem from="1765869200201" duration="41301000" />
+      <workItem from="1766108490586" duration="1000" />
+      <workItem from="1766109996681" duration="11783000" />
+      <workItem from="1766367304398" duration="15909000" />
+      <workItem from="1766453177475" duration="11940000" />
+      <workItem from="1766473758642" duration="58000" />
+      <workItem from="1766473844850" duration="4994000" />
+      <workItem from="1766538312434" duration="1000" />
+      <workItem from="1766538388092" duration="22191000" />
+      <workItem from="1767081222222" duration="6048000" />
+      <workItem from="1767491901653" duration="71568000" />
+      <workItem from="1768183345343" duration="6461000" />
+      <workItem from="1768204077729" duration="6811000" />
+      <workItem from="1768273585876" duration="27317000" />
+      <workItem from="1768549773846" duration="149000" />
+      <workItem from="1768551647084" duration="11000" />
+      <workItem from="1768880081573" duration="91000" />
+      <workItem from="1768880652550" duration="90000" />
+      <workItem from="1768887399699" duration="676000" />
+      <workItem from="1769398422345" duration="1018000" />
+      <workItem from="1769580467482" duration="2074000" />
+      <workItem from="1769734634989" duration="607000" />
+      <workItem from="1770108610733" duration="657000" />
+      <workItem from="1770601072042" duration="43588000" />
+      <workItem from="1771895046329" duration="6106000" />
+      <workItem from="1771902775417" duration="2634000" />
+      <workItem from="1772416364275" duration="41000" />
+      <workItem from="1772500177926" duration="26989000" />
+      <workItem from="1772783666782" duration="5777000" />
+      <workItem from="1773713497092" duration="20000" />
+      <workItem from="1774599667516" duration="65000" />
+      <workItem from="1774599785140" duration="708000" />
+      <workItem from="1774660966710" duration="253000" />
+      <workItem from="1774661500559" duration="11000" />
+      <workItem from="1774665372701" duration="365000" />
     </task>
-    <task id="LOCAL-00001" summary="11">
+    <task id="LOCAL-00001" summary="feat：up订单、项目">
       <option name="closed" value="true" />
-      <created>1774666132037</created>
+      <created>1763524548417</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1774666132037</updated>
+      <updated>1763524548417</updated>
     </task>
-    <task id="LOCAL-00002" summary="11">
+    <task id="LOCAL-00002" summary="feat：check">
       <option name="closed" value="true" />
-      <created>1774666188899</created>
+      <created>1763524802578</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1774666188899</updated>
+      <updated>1763524802578</updated>
     </task>
-    <task id="LOCAL-00003" summary="11">
+    <task id="LOCAL-00003" summary="feat：新增产品类型名称字段">
       <option name="closed" value="true" />
-      <created>1774666607942</created>
+      <created>1763536136061</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1774666607942</updated>
+      <updated>1763536136061</updated>
     </task>
-    <task id="LOCAL-00004" summary="11">
+    <task id="LOCAL-00004" summary="feat：新增产品类型名称字段">
       <option name="closed" value="true" />
-      <created>1774666662927</created>
+      <created>1763716026772</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1774666662927</updated>
+      <updated>1763716026772</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat：新增订单状态枚举">
+      <option name="closed" value="true" />
+      <created>1764129221327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764129221327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1764146516230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764146516230</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1764297517448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764297517448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1764827897408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764827897408</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat：上传过磅信息">
+      <option name="closed" value="true" />
+      <created>1764896910348</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764896910348</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat：审核拒绝表">
+      <option name="closed" value="true" />
+      <created>1764906986393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764906986393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1764922748821</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764922748821</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1764926140299</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764926140299</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765162014668</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765162014669</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765164240583</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765164240583</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat：导出订单详情中原料配比单">
+      <option name="closed" value="true" />
+      <created>1765164929860</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765164929860</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765183980657</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765183980657</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765251741273</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765251741273</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765335977969</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765335977969</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765344685736</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765344685736</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765355094696</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765355094696</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765358880723</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765358880723</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat：update">
+      <option name="closed" value="true" />
+      <created>1765420004988</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765420004988</updated>
+    </task>
+    <task id="LOCAL-00023" summary="feat：挂起状态筛选">
+      <option name="closed" value="true" />
+      <created>1765423453084</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765423453084</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat：挂起状态筛选">
+      <option name="closed" value="true" />
+      <created>1765436337579</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765436337579</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat：首页">
+      <option name="closed" value="true" />
+      <created>1765505541713</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765505541713</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feat：产品名称拼接规格作为唯一key">
+      <option name="closed" value="true" />
+      <created>1765507071449</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765507071449</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat：配比模版关联产品分类">
+      <option name="closed" value="true" />
+      <created>1765761442591</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765761442591</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat：订单流转进度埋点">
+      <option name="closed" value="true" />
+      <created>1765786760765</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765786760765</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat：在库形态转换">
+      <option name="closed" value="true" />
+      <created>1765851794661</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765851794661</updated>
+    </task>
+    <task id="LOCAL-00030" summary="feat：客户管理">
+      <option name="closed" value="true" />
+      <created>1765869972179</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765869972179</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat：采购订单列表产品名称模糊搜索">
+      <option name="closed" value="true" />
+      <created>1765872557361</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872557361</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat：采购订单列表产品名称模糊搜索">
+      <option name="closed" value="true" />
+      <created>1765876127209</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765876127209</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat：采购订单审核拒绝修复">
+      <option name="closed" value="true" />
+      <created>1765876829255</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1765876829255</updated>
+    </task>
+    <task id="LOCAL-00034" summary="feat：修改客户管理和项目管理">
+      <option name="closed" value="true" />
+      <created>1765949720599</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1765949720599</updated>
+    </task>
+    <task id="LOCAL-00035" summary="feat：修改客户管理和项目管理">
+      <option name="closed" value="true" />
+      <created>1765959025352</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1765959025352</updated>
+    </task>
+    <task id="LOCAL-00036" summary="feat：修改客户管理和项目管理">
+      <option name="closed" value="true" />
+      <created>1766020731374</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1766020731374</updated>
+    </task>
+    <task id="LOCAL-00037" summary="feat：修改客户管理和项目管理">
+      <option name="closed" value="true" />
+      <created>1766022959730</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1766022959730</updated>
+    </task>
+    <task id="LOCAL-00038" summary="feat：修复bug">
+      <option name="closed" value="true" />
+      <created>1766027346636</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1766027346636</updated>
+    </task>
+    <task id="LOCAL-00039" summary="feat：冻结库存">
+      <option name="closed" value="true" />
+      <created>1766044465023</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1766044465023</updated>
+    </task>
+    <task id="LOCAL-00040" summary="feat：修复库存为null-冻结库存">
+      <option name="closed" value="true" />
+      <created>1766107829458</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1766107829458</updated>
+    </task>
+    <task id="LOCAL-00041" summary="feat：修复库存为null-冻结库存">
+      <option name="closed" value="true" />
+      <created>1766126512253</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1766126512253</updated>
+    </task>
+    <task id="LOCAL-00042" summary="feat：添加项目名称">
+      <option name="closed" value="true" />
+      <created>1766130263497</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1766130263497</updated>
+    </task>
+    <task id="LOCAL-00043" summary="feat：创建配比模版 增加事务">
+      <option name="closed" value="true" />
+      <created>1766134708667</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1766134708667</updated>
+    </task>
+    <task id="LOCAL-00044" summary="feat：修改客户管理">
+      <option name="closed" value="true" />
+      <created>1766470510263</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1766470510263</updated>
+    </task>
+    <task id="LOCAL-00045" summary="feat：修改客户管理">
+      <option name="closed" value="true" />
+      <created>1766474827814</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1766474827814</updated>
+    </task>
+    <task id="LOCAL-00046" summary="feat：all">
+      <option name="closed" value="true" />
+      <created>1772783769107</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1772783769107</updated>
+    </task>
+    <task id="LOCAL-00047" summary="feat：all">
+      <option name="closed" value="true" />
+      <created>1772789370394</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1772789370394</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat：check" />
+    <MESSAGE value="feat：新增产品类型名称字段" />
+    <MESSAGE value="feat：新增订单状态枚举" />
+    <MESSAGE value="feat：上传过磅信息" />
+    <MESSAGE value="feat：审核拒绝表" />
+    <MESSAGE value="feat：导出订单详情中原料配比单" />
+    <MESSAGE value="feat：update" />
+    <MESSAGE value="feat：挂起状态筛选" />
+    <MESSAGE value="feat：首页" />
+    <MESSAGE value="feat：产品名称拼接规格作为唯一key" />
+    <MESSAGE value="feat：配比模版关联产品分类" />
+    <MESSAGE value="feat：订单流转进度埋点" />
+    <MESSAGE value="feat：在库形态转换" />
+    <MESSAGE value="feat：客户管理" />
+    <MESSAGE value="feat：采购订单列表产品名称模糊搜索" />
+    <MESSAGE value="feat：采购订单审核拒绝修复" />
+    <MESSAGE value="feat：修改客户管理和项目管理" />
+    <MESSAGE value="feat：修复bug" />
+    <MESSAGE value="feat：冻结库存" />
+    <MESSAGE value="feat：修复库存为null-冻结库存" />
+    <MESSAGE value="feat：添加项目名称" />
+    <MESSAGE value="feat：创建配比模版 增加事务" />
+    <MESSAGE value="feat：修改客户管理" />
+    <MESSAGE value="feat：all" />
     <MESSAGE value="11" />
     <option name="LAST_COMMIT_MESSAGE" value="11" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/order/EngineeringParserService.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/controller/admin/productWeighingDetails/HzProductWeighingDetailsController.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/productWeighingDetails/HzProductWeighingDetailsServiceImpl.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/productWeighingDetails/HzProductWeighingDetailsServiceImpl.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/controller/admin/hzRawConsume/HzRawConsumeController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/purchase/ErpPurchaseInServiceImpl.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/controller/admin/hzRawConsume/HzRawConsumeController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/hzRawConsume/HzRawConsumeServiceImpl.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/hzRawConsume/HzRawConsumeServiceImpl.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yudao-module-erp/src/main/java/cn/iocoder/yudao/module/erp/service/hzRawConsume/HzRawConsumeServiceImpl.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
