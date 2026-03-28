@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "yudao.pay",
+      "type": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yudao.pay.order-no-prefix",
+      "type": "java.lang.String",
+      "description": "支付订单 no 的前缀",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    },
+    {
+      "name": "yudao.pay.order-notify-url",
+      "type": "java.lang.String",
+      "description": "支付回调地址 实际上，对应的 PayNotifyController 的 notifyOrder 方法的 URL 回调顺序：支付渠道（支付宝支付、微信支付） => yudao-module-pay 的 orderNotifyUrl 地址 => 业务的 PayAppDO.orderNotifyUrl 地址",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    },
+    {
+      "name": "yudao.pay.refund-no-prefix",
+      "type": "java.lang.String",
+      "description": "退款订单 no 的前缀",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    },
+    {
+      "name": "yudao.pay.refund-notify-url",
+      "type": "java.lang.String",
+      "description": "退款回调地址 实际上，对应的 PayNotifyController 的 notifyRefund 方法的 URL 回调顺序：支付渠道（支付宝支付、微信支付） => yudao-module-pay 的 refundNotifyUrl 地址 => 业务的 PayAppDO.notifyRefundUrl 地址",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    },
+    {
+      "name": "yudao.pay.transfer-notify-url",
+      "type": "java.lang.String",
+      "description": "转账回调地址 实际上，对应的 PayNotifyController 的 notifyTransfer 方法的 URL 回调顺序：支付渠道（支付宝支付、微信支付） => yudao-module-pay 的 transferNotifyUrl 地址 => 业务的 PayAppDO.transferNotifyUrl 地址",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    },
+    {
+      "name": "yudao.pay.wallet-pay-app-key",
+      "type": "java.lang.String",
+      "description": "钱包支付应用 AppKey",
+      "sourceType": "cn.iocoder.yudao.module.pay.framework.pay.config.PayProperties"
+    }
+  ],
+  "hints": []
+}

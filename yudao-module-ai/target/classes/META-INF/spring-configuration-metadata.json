@@ -1,0 +1,277 @@
+{
+  "groups": [
+    {
+      "name": "yudao.ai",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.baichuan",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.doubao",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.midjourney",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$MidjourneyProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.suno",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SunoProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo",
+      "type": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yudao.ai.baichuan.api-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties"
+    },
+    {
+      "name": "yudao.ai.baichuan.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties"
+    },
+    {
+      "name": "yudao.ai.baichuan.max-tokens",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties"
+    },
+    {
+      "name": "yudao.ai.baichuan.model",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties"
+    },
+    {
+      "name": "yudao.ai.baichuan.temperature",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties"
+    },
+    {
+      "name": "yudao.ai.baichuan.top-p",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$BaiChuanProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek.api-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek.max-tokens",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek.model",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek.temperature",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties"
+    },
+    {
+      "name": "yudao.ai.deepseek.top-p",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DeepSeekProperties"
+    },
+    {
+      "name": "yudao.ai.doubao.api-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties"
+    },
+    {
+      "name": "yudao.ai.doubao.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties"
+    },
+    {
+      "name": "yudao.ai.doubao.max-tokens",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties"
+    },
+    {
+      "name": "yudao.ai.doubao.model",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties"
+    },
+    {
+      "name": "yudao.ai.doubao.temperature",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties"
+    },
+    {
+      "name": "yudao.ai.doubao.top-p",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$DouBaoProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.api-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.base-url",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.max-tokens",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.model",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.temperature",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.hunyuan.top-p",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$HunYuanProperties"
+    },
+    {
+      "name": "yudao.ai.midjourney.api-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$MidjourneyProperties"
+    },
+    {
+      "name": "yudao.ai.midjourney.base-url",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$MidjourneyProperties"
+    },
+    {
+      "name": "yudao.ai.midjourney.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$MidjourneyProperties"
+    },
+    {
+      "name": "yudao.ai.midjourney.notify-url",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$MidjourneyProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow.api-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow.max-tokens",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow.model",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow.temperature",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties"
+    },
+    {
+      "name": "yudao.ai.siliconflow.top-p",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SiliconFlowProperties"
+    },
+    {
+      "name": "yudao.ai.suno.base-url",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SunoProperties"
+    },
+    {
+      "name": "yudao.ai.suno.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$SunoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.app-id",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.app-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.enable",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.max-tokens",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.model",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.temperature",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    },
+    {
+      "name": "yudao.ai.xinghuo.top-p",
+      "type": "java.lang.Double",
+      "sourceType": "cn.iocoder.yudao.module.ai.framework.ai.config.YudaoAiProperties$XingHuoProperties"
+    }
+  ],
+  "hints": []
+}
