@@ -5,18 +5,498 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a97fad60-3580-4572-8c02-d8f788cf61af" name="更改" comment="11">
-      <change afterPath="$PROJECT_DIR$/.idea/.cache/.Apifox_Helper/.toolWindow.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/.cache/.Apifox_Helper/.toolWindow.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/infra/logger/ApiAccessLogCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/infra/logger/ApiErrorLogCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/infra/logger/dto/ApiAccessLogCreateReqDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/infra/logger/dto/ApiErrorLogCreateReqDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/dict/DictDataCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/dict/dto/DictDataRespDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/logger/OperateLogCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/logger/dto/OperateLogCreateReqDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/oauth2/OAuth2TokenCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/oauth2/dto/OAuth2AccessTokenCheckRespDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/oauth2/dto/OAuth2AccessTokenCreateReqDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/oauth2/dto/OAuth2AccessTokenRespDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/permission/PermissionCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/permission/dto/DeptDataPermissionRespDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/biz/system/tenant/TenantCommonApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/core/ArrayValuable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/core/KeyValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/CommonStatusEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/DateIntervalEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/DocumentEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/OrderStatusEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/RpcConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/TerminalEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/UserTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/enums/WebFilterOrderEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/exception/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/exception/ServerException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/exception/ServiceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/exception/enums/GlobalErrorCodeConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/exception/enums/ServiceErrorCodeRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/exception/util/ServiceExceptionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/pojo/CommonResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/pojo/PageParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/pojo/PageResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/pojo/SortablePageParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/pojo/SortingField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/cache/CacheUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/collection/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/collection/CollectionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/collection/MapUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/collection/SetUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/date/DateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/date/LocalDateTimeUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/date/LocalDateTimeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/http/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/io/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/io/IoUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/json/JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/json/databind/NumberSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/json/databind/TimestampLocalDateTimeDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/json/databind/TimestampLocalDateTimeSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/monitor/TracerUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/number/MoneyUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/number/NumberUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/object/BeanUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/object/ObjectUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/object/PageUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/servlet/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/spring/SpringExpressionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/spring/SpringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/string/StrUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/util/validation/ValidationUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/InEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/InEnumCollectionValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/InEnumValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/Mobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/MobileValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/Telephone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/classes/cn/iocoder/yudao/framework/common/validation/TelephoneValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/test-classes/cn/iocoder/yudao/framework/common/util/collection/CollectionUtilsTest$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-common/target/test-classes/cn/iocoder/yudao/framework/common/util/collection/CollectionUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-data-permission/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-ip/target/classes/area.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-ip/target/classes/cn/iocoder/yudao/framework/ip/core/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-ip/target/classes/cn/iocoder/yudao/framework/ip/core/enums/AreaTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-ip/target/classes/cn/iocoder/yudao/framework/ip/core/utils/AreaUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-ip/target/classes/cn/iocoder/yudao/framework/ip/core/utils/IPUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-ip/target/classes/ip2region.xdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-tenant/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-biz-tenant/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/dict/config/YudaoDictAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/dict/core/DictFrameworkUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/dict/core/DictFrameworkUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/annotations/DictFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/annotations/ExcelColumnSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/convert/AreaConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/convert/DictConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/convert/JsonConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/convert/MoneyConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/function/ExcelColumnSelectFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/handler/SelectSheetWriteHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-excel/target/classes/cn/iocoder/yudao/framework/excel/core/util/ExcelUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/config/YudaoAsyncAutoConfiguration$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/config/YudaoAsyncAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/config/YudaoQuartzAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/core/enums/JobDataKeyEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/core/handler/JobHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/core/handler/JobHandlerInvoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/core/scheduler/SchedulerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/core/service/JobLogFrameworkService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-job/target/classes/cn/iocoder/yudao/framework/quartz/core/util/CronUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/config/TracerProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/config/YudaoMetricsAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/config/YudaoTracerAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/core/annotation/BizTrace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/core/aop/BizTraceAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/core/filter/TraceFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-monitor/target/classes/cn/iocoder/yudao/framework/tracer/core/util/TracerFrameworkUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/rabbitmq/config/YudaoRabbitMQAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/config/YudaoRedisMQConsumerAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/config/YudaoRedisMQProducerAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/RedisMQTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/interceptor/RedisMessageInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/job/RedisPendingMessageResendJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/job/RedisStreamMessageCleanupJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/message/AbstractRedisMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/pubsub/AbstractRedisChannelMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/pubsub/AbstractRedisChannelMessageListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/stream/AbstractRedisStreamMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mq/target/classes/cn/iocoder/yudao/framework/mq/redis/core/stream/AbstractRedisStreamMessageListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mybatis/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-mybatis/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-protection/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-redis/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-redis/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-redis/target/classes/cn/iocoder/yudao/framework/redis/config/YudaoCacheAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-redis/target/classes/cn/iocoder/yudao/framework/redis/config/YudaoCacheProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-redis/target/classes/cn/iocoder/yudao/framework/redis/config/YudaoRedisAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-redis/target/classes/cn/iocoder/yudao/framework/redis/core/TimeoutRedisCacheManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-security/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/apilog/config/YudaoApiLogAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/apilog/core/annotation/ApiAccessLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/apilog/core/enums/OperateTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/apilog/core/filter/ApiAccessLogFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/apilog/core/filter/ApiAccessLogFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/apilog/core/interceptor/ApiAccessLogInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/banner/config/YudaoBannerAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/banner/core/BannerApplicationRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/base/annotation/DesensitizeBy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/base/handler/DesensitizationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/base/serializer/StringDesensitizeSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/regex/annotation/EmailDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/regex/annotation/RegexDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/regex/handler/AbstractRegexDesensitizationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/regex/handler/DefaultRegexDesensitizationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/regex/handler/EmailDesensitizationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/BankCardDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/CarLicenseDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/ChineseNameDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/FixedPhoneDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/IdCardDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/MobileDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/PasswordDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/annotation/SliderDesensitize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/AbstractSliderDesensitizationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/BankCardDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/CarLicenseDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/ChineseNameDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/DefaultDesensitizationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/FixedPhoneDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/IdCardDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/MobileDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/desensitize/core/slider/handler/PasswordDesensitization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/jackson/config/YudaoJacksonAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/swagger/config/SwaggerProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/swagger/config/YudaoSwaggerAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/config/WebProperties$Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/config/WebProperties$Ui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/config/WebProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/config/YudaoWebAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/filter/ApiRequestFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/filter/CacheRequestBodyFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/filter/CacheRequestBodyWrapper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/filter/CacheRequestBodyWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/filter/DemoFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/handler/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/handler/GlobalResponseBodyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/web/core/util/WebFrameworkUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/config/XssProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/config/YudaoXssAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/core/clean/JsoupXssCleaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/core/clean/XssCleaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/core/filter/XssFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/core/filter/XssRequestWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-web/target/classes/cn/iocoder/yudao/framework/xss/core/json/XssStringJsonDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-framework/yudao-spring-boot-starter-websocket/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/controller/controller.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/controller/vo/listReqVO.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/controller/vo/pageReqVO.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/controller/vo/respVO.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/controller/vo/saveReqVO.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/dal/do.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/dal/do_sub.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/dal/mapper.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/dal/mapper.xml.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/dal/mapper_sub.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/enums/errorcode.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/service/service.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/service/serviceImpl.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/java/test/serviceTest.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/sql/h2.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/sql/sql.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/api/api.js.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/components/form_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/components/form_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/components/form_sub_normal.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/components/list_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/components/list_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/api/api.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/components/form_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/components/form_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/components/form_sub_normal.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/components/list_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/components/list_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben/api/api.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben/views/data.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/api/api.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/modules/form_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/modules/form_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/modules/form_sub_normal.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/modules/list_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/general/views/modules/list_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/api/api.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/data.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/modules/form_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/modules/form_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/modules/form_sub_normal.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/modules/list_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_antd/schema/views/modules/list_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/api/api.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/modules/form_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/modules/form_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/modules/form_sub_normal.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/modules/list_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/general/views/modules/list_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/api/api.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/data.ts.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/form.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/modules/form_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/modules/form_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/modules/form_sub_normal.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/modules/list_sub_erp.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/codegen/vue3_vben5_ele/schema/views/modules/list_sub_inner.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/classes/file/erweima.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/application-unit-test.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/table/category.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/table/contact.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/table/student.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/table/teacher.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentContactDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentContactMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentTeacherDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/java/InfraStudentTeacherMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/vue/StudentContactForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/vue/StudentContactList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/vue/StudentTeacherForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/vue/StudentTeacherList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_erp/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentContactDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentContactMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentTeacherDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/java/InfraStudentTeacherMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/vue/StudentContactForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/vue/StudentContactList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/vue/StudentTeacherForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/vue/StudentTeacherList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_inner/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentContactDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentContactMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentTeacherDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/java/InfraStudentTeacherMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/vue/StudentContactForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/vue/StudentTeacherForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_master_normal/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_one/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryListReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategorySaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/java/InfraCategoryServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/vue/CategoryForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue2_tree/xml/InfraCategoryMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentContactDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentContactMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentTeacherDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/java/InfraStudentTeacherMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/ts/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/vue/StudentContactForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/vue/StudentContactList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/vue/StudentTeacherForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/vue/StudentTeacherList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_erp/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentContactDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentContactMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentTeacherDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/java/InfraStudentTeacherMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/ts/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/vue/StudentContactForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/vue/StudentContactList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/vue/StudentTeacherForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/vue/StudentTeacherList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_inner/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentContactDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentContactMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentTeacherDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/java/InfraStudentTeacherMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/ts/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/vue/StudentContactForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/vue/StudentTeacherForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_master_normal/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentPageReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentSaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/java/InfraStudentServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/ts/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/vue/StudentForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_one/xml/InfraStudentMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/assert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/ErrorCodeConstants_手动操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryController" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryListReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryRespVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategorySaveReqVO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryService" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryServiceImpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/java/InfraCategoryServiceImplTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/sql/h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/sql/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/ts/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/vue/CategoryForm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/vue/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/codegen/windows10/vue3_tree/xml/InfraCategoryMapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/sql/clean.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-infra/target/test-classes/sql/create_tables.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-member/target/test-classes/application-unit-test.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-member/target/test-classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-member/target/test-classes/sql/clean.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-module-member/target/test-classes/sql/create_tables.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +513,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="GLM-5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,38 +544,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.yudao [clean].executor": "Run",
-    "Maven.yudao [package].executor": "Run",
-    "Notification.DisplayName-DoNotAsk-Database detector": "数据库检测器",
-    "Notification.DoNotAsk-Database detector": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.YudaoServerApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lc/Desktop/trae/.idea",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDK",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.yudao [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.yudao [package].executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;数据库检测器&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.YudaoServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lc/Desktop/trae/.idea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
